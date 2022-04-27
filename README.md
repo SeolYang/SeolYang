@@ -8,3 +8,4 @@ I'm interested in both real-time rendering and offline rendering techniques or a
 
 - [My Portfolio](https://aback-runner-2e5.notion.site/My-dream-is-render-my-own-world-05fa7a46fcd6494db1938718023c3ed0)
 - [My life-changing book](https://www.amazon.com/Advanced-Global-Illumination-Philip-Dutre/dp/1568813074)
+- [My Blog](https://seolyang.tistory.com/)
