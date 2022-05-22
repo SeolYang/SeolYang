@@ -2,7 +2,7 @@
 
 I'm interested in both real-time rendering and offline rendering techniques or algorithms and developes Games!
 
- I love to know about animation style shading like Blue Archive(Nexon Games), Honkai Impact 3rd, Genshin Impact(HoYoverse), Closers(Nexon) and Soulworker (Lion Games). And also, I have a huge interesting and love to study about lots of rendering techs like Realtime/Offline Global Illumination Algorithms, Atmospheric Scattering, Antialiasing schemes, Volumetric Clouds and fogs, Subsurface scattering, Culling algorithms, Non-photorealistic shading schemes and modeling of BxDFs and also implement engines from bottom to top!
+ I love to know about animation style shading like Blue Archive(Nexon Games), Honkai Impact 3rd, Genshin Impact(HoYoverse), Closers(Nexon) and Soulworker (Lion Games). And also, I have a huge interesting and love to study about lots of rendering techs like Realtime/Offline Global Illumination Algorithms, Atmospheric Scattering, Antialiasing schemes, Volumetric Clouds and fogs, Subsurface scattering, Culling algorithms, Non-photorealistic shading schemes and modeling of BxDFs and also implement engines from scratch.
 
 Especially, I want to be a expert on Realtime Global Illumination, Volumetric Scattering, Atmospheric Scatterings and Subsurface Scatterings.
 
