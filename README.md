@@ -16,4 +16,5 @@ My current goal is put on track [Anya](https://github.com/SeolYang/Anya) which i
 *May the fires of hope always guide us.*
 
 *Join to the ROKA : 2022-06-14~2023-12-13* 
-**Thanks to @twoguns02 who approved to using lovely illustration as my profile image.**
+
+***Thanks to @twoguns02 who approved to using lovely illustration as my profile image.***
