@@ -11,10 +11,10 @@ Especially, I want to be a expert on Realtime Global Illumination, Volumetric Sc
 
 
 ## My Goal
-My current goal is put on track [Anya](https://github.com/SeolYang/Anya) which is research driven game engine using D3D12 and modern C++, and [nene](https://github.com/SeolYang/nene) which is research driven path tracer using Rust.
+My current goal is put on track [Anya](https://github.com/SeolYang/Anya) which is research driven game engine using D3D12 and modern C++, and [haru-rs](https://github.com/SeolYang/haru-rs) which is rust based path tracer project.
 
 *May the fires of hope always guide us.*
 
-*Join to the ROKA : 2022-06-14~2023-12-13* 
+*Military Service in Republic Of Korea Army : 2022-06-14~2023-12-13* 
 
 ***Thanks to @twoguns02 who approved to using lovely illustration as my profile image.***
