@@ -13,7 +13,7 @@ Especially, I want to be a expert on Realtime Global Illumination, Volumetric Sc
 ## My Goal
 My current goal is a develope '[Valheim](https://www.valheimgame.com/)' like open-world survival game from scratch.
 
-*May the fires of hope always guide us.*
+*Huge fan of Open World Survival & RPG Games!"
 
 *Military Service in Republic Of Korea Army : 2022-06-14~2023-12-13* 
 
