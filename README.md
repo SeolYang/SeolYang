@@ -3,5 +3,3 @@
 - [My Blog](https://seolyang.tistory.com/)
 
 ## My Goal
-*Military Service in Republic Of Korea Army : 2022-06-14~2023-12-13* 
-*Develope 3D Action MMORPG*
